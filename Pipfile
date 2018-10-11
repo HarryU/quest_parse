@@ -14,6 +14,7 @@ pygraphviz = "*"
 pydot = "*"
 requests = "*"
 requests-html = "*"
+requests-cache = "*"
 
 [requires]
 python_version = "3.6"
